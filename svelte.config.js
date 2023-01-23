@@ -8,7 +8,15 @@ const dev = process.argv.includes('dev');
 const config = {
 	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
 	// for more information about preprocessors
-	preprocess: [sveltePreprocess(), mdsvex({ extensions: ['.md'] })],
+	preprocess: [
+		sveltePreprocess(),
+		mdsvex({
+			extensions: ['.md'],
+			layout: {
+				bendler: 'src/routes/bendler/page.svelte'
+			}
+		})
+	],
 
 	extensions: ['.svelte', '.md'],
 
