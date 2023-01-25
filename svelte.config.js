@@ -9,10 +9,7 @@ const config = {
 	preprocess: [
 		sveltePreprocess(),
 		mdsvex({
-			extensions: ['.md'],
-			layout: {
-				bendler: 'src/routes/bendler/page.svelte'
-			}
+			extensions: ['.md']
 		})
 	],
 

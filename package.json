@@ -9,13 +9,11 @@
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --plugin-search-dir . --check .",
-		"format": "prettier --plugin-search-dir . --write .",
-		"deploy": "gh-pages -d build"
+		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-vercel": "^1.0.5",
 		"@sveltejs/kit": "^1.0.0",
-		"gh-pages": "^5.0.0",
 		"mdsvex": "^0.10.6",
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.8.1",
