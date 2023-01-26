@@ -11,6 +11,19 @@
 
 <article>
 	<h1>{data.title}</h1>
-	<p>{data.date}</p>
 	<svelte:component this={data.content} />
+	<small>{data.date}</small>
 </article>
+
+<style>
+	article {
+		display: flex;
+		flex-direction: column;
+		padding: 1rem;
+	}
+
+	small {
+		text-align: right;
+		margin-top: 0.5rem;
+	}
+</style>

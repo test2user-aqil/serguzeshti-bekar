@@ -3,4 +3,14 @@
 	<meta name="description" content="Bekarların məcəraları" />
 </svelte:head>
 
-<h1>Sərgüzəşti-bekar</h1>
+<div class="container">
+	<h1>Sərgüzəşti-bekar</h1>
+</div>
+
+<style>
+	.container {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+</style>

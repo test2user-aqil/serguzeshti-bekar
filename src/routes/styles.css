@@ -2,7 +2,9 @@
 
 :root {
 	--bg: #dddddd;
+	--dark-1: #101010;
 	--accent-1: #a9a9d5;
+	--accent-2: #b4b4b4;
 }
 
 * {
@@ -19,6 +21,14 @@ body {
 h1 {
 	font-family: 'Merriweather', serif;
 	font-size: 48px;
+	text-align: center;
+	margin: 48px auto;
+}
+
+small {
+	color: var(--dark-1);
+	font-style: italic;
+	min-width: fit-content;
 }
 
 ul {
