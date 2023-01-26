@@ -4,6 +4,10 @@
 	export let data: PageData;
 </script>
 
+<svelte:head>
+	<title>Bəndlər &bull; Sərgüzəşti-bekar</title>
+</svelte:head>
+
 <ul>
 	{#each data.bendler as bend}
 		<li>
