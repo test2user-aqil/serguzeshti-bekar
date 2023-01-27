@@ -1,12 +1,16 @@
 import adapter from '@sveltejs/adapter-static';
-import sveltePreprocess from 'svelte-preprocess'
+import sveltePreprocess from 'svelte-preprocess';
+import { mdsvex } from 'mdsvex';
+
 const dev = process.argv.includes('dev');
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
 	// for more information about preprocessors
-	preprocess: sveltePreprocess(),
+	preprocess: [sveltePreprocess(), mdsvex({ extensions: ['.md'] })],
+
+	extensions: ['.svelte', '.md'],
 
 	kit: {
 		paths: {
