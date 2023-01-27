@@ -5,7 +5,7 @@
 
 <div>
 	<ul>
-		<li aria-current={$page.url.pathname === `/${base}` ? 'page' : undefined}>
+		<li aria-current={$page.url.pathname === `${base}` ? 'page' : undefined}>
 			<a href={`${base}/`}>Ana Səhifə</a>
 		</li>
 		<li aria-current={$page.url.pathname === `${base}/bendler` ? 'page' : undefined}>
