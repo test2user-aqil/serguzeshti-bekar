@@ -4,7 +4,6 @@
   - [Getting Code](#getting-code)
   - [Coding Style](#code-style)
   - [Commit Messages](#commit-messages)
-  - [Share your adventure](#share-your-adventure)
 
 ## How to Contribute
 
@@ -73,10 +72,3 @@ chore(bendler): add new bend
 
 Add Subhan's adventures
 ```
-
-### Share your adventure
-
-1. Fork this repository.
-2. Create a new markdown file in `src/routes/bendler/`, e.g. `src/routes/bendler/my-title.md`.
-3. Commit your changes by following [these rules](#commit-messages).
-4. Open pull request. If your changes are good enough, i'll merge it.
