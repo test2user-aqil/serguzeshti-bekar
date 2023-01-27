@@ -1,8 +1,6 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-vercel';
 import sveltePreprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex';
-
-const dev = process.argv.includes('dev');
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -21,16 +19,10 @@ const config = {
 	extensions: ['.svelte', '.md'],
 
 	kit: {
-		paths: {
-			base: dev ? '' : '/serguzeshti-bekar'
-		},
-
 		adapter: adapter({
-			pages: 'build',
-			assets: 'build',
-			fallback: null,
-			precompress: false,
-			strict: true
+			edge: false,
+			external: [],
+			split: false
 		})
 	}
 };
