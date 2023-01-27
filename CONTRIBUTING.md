@@ -57,6 +57,7 @@ footer
 
    - `fix` - bug fixes.
    - `feat` - features.
+   - `perf` - performace improvements.
    - `docs` - changes to docs, e.g. `docs(readme.md): ..` to change documentation.
    - `chore` - everything that doesn't fall under previous categories
 
