@@ -42,6 +42,7 @@
 
 	li[aria-current='page'] {
 		background: var(--accent-1);
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.25));
 	}
 
 	li[aria-current='page'] a {
