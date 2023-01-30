@@ -1,7 +1,8 @@
+import type { RequestHandler } from './$types';
 import { fetchBendler } from './fetchBendler';
 import { json } from '@sveltejs/kit';
 
-export const GET = async () => {
+export const GET = (async () => {
 	const allPosts = await fetchBendler();
 
 	const sortedPosts = allPosts.sort((a, b) => {
@@ -9,4 +10,4 @@ export const GET = async () => {
 	});
 
 	return json(sortedPosts);
-};
+}) satisfies RequestHandler;
