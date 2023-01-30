@@ -29,5 +29,7 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+		border: 1px solid rgba(0, 0, 0, 0.25);
+		filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.25));
 	}
 </style>
