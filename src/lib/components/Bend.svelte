@@ -4,14 +4,12 @@
 	export let date: string;
 </script>
 
-<li>
+<a href={path}>
 	<h2>
-		<a href={path}>
-			{title}
-		</a>
+		{title}
 	</h2>
 	<small>{date}</small>
-</li>
+</a>
 
 <style>
 	h2 {
@@ -20,9 +18,6 @@
 
 	a {
 		color: #101010;
-	}
-
-	li {
 		padding: 1rem 2rem;
 		border-radius: 1rem;
 		background-color: var(--accent-2);
@@ -31,5 +26,9 @@
 		align-items: center;
 		border: 1px solid rgba(0, 0, 0, 0.25);
 		filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.25));
+		transition: 0.2s ease-out;
+	}
+	a:hover {
+		transform: translateY(-1px);
 	}
 </style>
