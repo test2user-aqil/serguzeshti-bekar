@@ -31,4 +31,13 @@
 	a:hover {
 		transform: translateY(-1px);
 	}
+
+	@media only screen and (max-width: 460px) {
+		a small {
+			display: none;
+		}
+		a h2 {
+			margin: 0 auto;
+		}
+	}
 </style>
