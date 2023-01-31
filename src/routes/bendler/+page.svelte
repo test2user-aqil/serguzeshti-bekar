@@ -34,7 +34,7 @@
 <h1>Bəndlər</h1>
 
 <ul>
-	<input type="search" placeholder="Search..." bind:value={$searchStore.search} />
+	<input type="search" placeholder="Axtar..." bind:value={$searchStore.search} />
 
 	{#each $searchStore.filtered as bend}
 		<Bend path={bend.path} title={bend.meta.title} date={bend.meta.date} />
@@ -51,9 +51,15 @@
 		min-width: max-content;
 		font-size: 20px;
 		padding: 0.6rem 1rem;
+		margin: 0 0 0.5rem 0;
 		background-color: #b4b4b4;
-		border: 1px solid rgba(0, 0, 0, 0.25);
+		border: 2px solid rgba(0, 0, 0, 0.25);
+		filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.25));
 		border-radius: 0.5rem;
 		outline: 0;
+		transition: 0.2s ease-out;
+	}
+	input:focus {
+		border: 2px solid rgba(0, 0, 0, 0.5);
 	}
 </style>
