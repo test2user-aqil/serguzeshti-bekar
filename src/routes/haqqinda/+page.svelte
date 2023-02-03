@@ -4,35 +4,34 @@
 
 <h1>Haqqında</h1>
 
-<h2>Təvir</h2>
-<div>Bekarların məcəralarının olduğu veb-səhifə</div>
+<div class="content">
+	<ul>
+		<h2>Müəlliflər</h2>
+		<li>Qədirli Sübhan</li>
+		<li>Məmmədov Aqil</li>
+	</ul>
 
-<h2>Müəlliflər</h2>
-<ul>
-	<li>Qədirli Sübhan</li>
-	<li>Məmmədov Aqil</li>
-</ul>
-
-<h2>Linklər</h2>
-<ul>
-	<li>
+	<ul>
+		<h2>Linklər</h2>
 		<a href="https://github.com/test2user-aqil/serguzeshti-bekar" target="_blank" rel="noreferrer">
 			GitHub
 		</a>
-	</li>
-</ul>
+	</ul>
+</div>
 
 <style>
-	h2 {
-		margin: 3rem 0 1rem;
-	}
-	div {
-		margin: 0 0 3rem;
+	.content {
+		display: flex;
+		gap: 2.5rem;
+		align-items: flex-start;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
 	}
 	ul {
-		list-style-type: disc;
-	}
-	li {
-		margin: 0.8rem 0.4rem;
+		width: fit-content;
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		align-items: center;
 	}
 </style>
