@@ -5,7 +5,7 @@ date: '2023-01-31'
 
 ## Giriş
 
-Bu gün sizə Bekarın aldığı bir dərsdən danışacağam. Bir insan necə səhvinin fəqinə varar və bunu düzəldər bunun haqqında. Yəni, belə ümid edirəm.
+Bu gün sizə Bekarın aldığı bir dərsdən danışacağam. Bir insan necə səhvinin fərqinə varar və bunu düzəldər bunun haqqında. Yəni, belə ümid edirəm.
 
 ## Eqo toxumları
 
@@ -21,8 +21,10 @@ Lakin buna ilk zərbəni ayın başı olduğundan qəzəbli özü kimi egoist bi
 
 Bekar bu gün çox səhv bir şeyə bulaşmışdı. Zira eqo narkotikdən də aslılıq yaradan, narkotikdən də lənət, utanc verici bir şey idi. Lakin Bekar bu təhlükənin fərqində deyildi. Bəs o necə dərs çıxardı? Bunun üçün hekayənin ardına göz atmaq lazımdır.
 
+**Qeyd:** _Ləçər adlandırılan qız sonradan "Zoluçka" təxəllüsünü aldı._
+
 ## Qurtarıcı Zəbani
 
-Sabahsı gün də erkəndən oyandı o. Axı sərgüzəştlərinə qaldığı yerdən davam edəcəkdi.. Axmaq hələ də elə düşünürdü. Sabah yenidən dərsə yollandı, aa dejavu. Əslində bu gündə pis başlamamışdı, hələki hər şey yaxşı idi. Bir məşğələdən digərinə yolladı, dünən son bir dəfə amma bu dəfə yox marağı üçün götürdüyü kitab yanında idi, o bunun necə gözəl göründüyünün fərqinə varanda onu aksesuar kimi işlətmək qərarına gəldi. Amma bu səfər yalançı çoban misalı bunu ego üçün etdiyi ilə günahlandırdı onu Zəbani, bəlkə də elə idi. Zəbani özü də egoistin təki idi. Özündəki pis xüsusiyyətləri Bekara deyərək sanki vicdan masturbasiyası edirdi. Ancaq bu səfər sözündə həqiqət vardı. Yanından keçən və sadə biri olan bir tanışının da bu fikirdə olması Bekara təsir etdi. O sanki ayıldı. "D-dostum ayıl! Sən nə edirsən?" - içində hayqırdı. Bundan sonra o çox düşündü bu haqda. Və nəhayət bir daha etməyəcəyinə söz verib, özündən üzr istədi.
+Sabahsı gün də erkəndən oyandı o. Axı sərgüzəştlərinə qaldığı yerdən davam edəcəkdi.. Axmaq hələ də elə düşünürdü. Sabah yenidən dərsə yollandı, aa dejavu. Əslində bu gündə pis başlamamışdı, hələki hər şey yaxşı idi. Bir məşğələdən digərinə yollandı, dünən son bir dəfə amma bu dəfə yox marağı üçün götürdüyü kitab yanında idi, o bunun necə gözəl göründüyünün fərqinə varanda onu aksesuar kimi işlətmək qərarına gəldi. Amma bu səfər yalançı çoban misalı bunu ego üçün etdiyi ilə günahlandırdı onu Zəbani, bəlkə də elə idi. Zəbani özü də egoistin təki idi. Özündəki pis xüsusiyyətləri Bekara deyərək sanki vicdan masturbasiyası edirdi. Ancaq bu səfər sözündə həqiqət vardı. Yanından keçən və sadə biri olan bir tanışının da bu fikirdə olması Bekara təsir etdi. O sanki ayıldı. "D-dostum ayıl! Sən nə edirsən?" - içində hayqırdı. Əslində Bekar bunu özü əvvəl-axır anlayacaqdı. Amma bu Zəbaninin sözləri Osmanlını yıxanlar ərəblər kimi oldu. Bundan sonra o çox düşündü bu haqda. Və nəhayət bir daha etməyəcəyinə söz verib, özündən üzr istədi.
 
 # Son
