@@ -13,7 +13,7 @@
 
 <style>
 	h2 {
-		font-size: 32px;
+		font-size: 26px;
 	}
 
 	a {
@@ -38,6 +38,10 @@
 		}
 		a h2 {
 			margin: 0 auto;
+			min-width: fit-content;
+		}
+		a {
+			padding: 1rem;
 		}
 	}
 </style>

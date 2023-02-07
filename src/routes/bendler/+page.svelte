@@ -49,7 +49,7 @@
 	}
 	input {
 		min-width: max-content;
-		font-size: 20px;
+		font-size: 16px;
 		padding: 0.6rem 1rem;
 		margin: 0 0 0.5rem 0;
 		background-color: #b4b4b4;
