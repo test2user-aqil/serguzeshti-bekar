@@ -1,14 +1,12 @@
 <script lang="ts">
 	export let path: string;
 	export let title: string;
-	export let date: string;
 </script>
 
 <a href={path}>
 	<h2>
 		{title}
 	</h2>
-	<small>{date}</small>
 </a>
 
 <style>
@@ -33,9 +31,6 @@
 	}
 
 	@media only screen and (max-width: 460px) {
-		a small {
-			display: none;
-		}
 		a h2 {
 			margin: 0 auto;
 			min-width: fit-content;
