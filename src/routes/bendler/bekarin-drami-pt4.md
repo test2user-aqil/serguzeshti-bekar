@@ -1,5 +1,5 @@
 ---
-title: Bekarın dramı - Pt.4
+title: Bekarın dramı - Pt.4 (Axmaq)
 date: '2023-02-06'
 ---
 
