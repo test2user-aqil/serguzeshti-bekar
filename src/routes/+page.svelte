@@ -4,7 +4,6 @@
 	import Bend from '$lib/components/Bend.svelte';
 
 	export let data: PageData;
-	console.log(data.bend);
 </script>
 
 <svelte:head>
@@ -21,7 +20,7 @@
 	</h3>
 
 	<h2>Ən son:</h2>
-	<Bend path={data.bend.path} title={data.bend.meta.title} date={data.bend.meta.date} />
+	<Bend path={data.bend.path} title={data.bend.meta.title} author={data.bend.meta.author} />
 </div>
 
 <style>

@@ -7,7 +7,7 @@
 	export let data: PageData;
 
 	type Bend = {
-		meta: { title: string; date: string };
+		meta: { title: string; author: string };
 		path: string;
 		content: string;
 		searchTerms: string;
@@ -15,7 +15,7 @@
 
 	const searchBends: Bend[] = data.bendler.map((bend: Bend) => ({
 		...bend,
-		searchTerms: `${bend.meta.title} ${bend.meta.date}`
+		searchTerms: `${bend.meta.title} ${bend.meta.author}`
 	}));
 
 	const searchStore = createSearchStore(searchBends);
@@ -37,7 +37,7 @@
 	<input type="search" placeholder="Axtar..." bind:value={$searchStore.search} />
 
 	{#each $searchStore.filtered as bend}
-		<Bend path={bend.path} title={bend.meta.title} date={bend.meta.date} />
+		<Bend path={bend.path} title={bend.meta.title} author={bend.meta.author} />
 	{/each}
 </ul>
 
