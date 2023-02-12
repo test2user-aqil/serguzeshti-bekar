@@ -1,7 +1,7 @@
 ---
 title: Bekarın dramı - Pt.3
 date: '2023-01-31'
-author: 'Qədirli Sübhan'
+author: 'Filankəs'
 ---
 
 ## Giriş

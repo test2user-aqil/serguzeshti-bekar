@@ -1,7 +1,7 @@
 ---
 title: Düzbucaqlı Cəfəngiyat - Pt.1 (İmtina)
 date: '2023-02-11 19:27'
-author: 'Məmmədov Aqil'
+author: 'Bəhmənkəs'
 ---
 
 Bekar ağacın altında dayanıb, şəhərin küçələrində yağan yağışdan quru qalmağa çalışırdı. Gec gələn sevgilisi üçün gətirdiyi güllə əsəbiləşirdi. Nəhayət, onunla birlikdə ağacın altına sığınmağa tələsərək gəldi.

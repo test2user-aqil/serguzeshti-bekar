@@ -1,7 +1,7 @@
 ---
 title: Bekarın dramı - Pt.4 (Axmaq)
 date: '2023-02-06'
-author: 'Qədirli Sübhan'
+author: 'Filankəs'
 ---
 
 Səhər açıldı. "Oyan, gecikirsən!" - ah, lənət olsun, yenə yuxuya ara verməli olacaqdı. Bu səfər nə yer çəkiminə cəlb olunacaq nə də şirin yuxuya qərq olacaqdı. Nəysə, neylək, ən azından gözəl bir gün keçirməli idi. Klassiklərdən nəsə açıb əynini geyinməyə qoyuldu. Bunu sadəcə kiçik bir eqo tətmini olaraq edirdi. Çünki daha böyüyünü etməməyə özünə söz vermişdi.(Bax: [Pt.3](https://serguzeshti-bekar.vercel.app/bendler/bekarin-drami-pt3))

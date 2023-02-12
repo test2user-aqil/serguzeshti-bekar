@@ -1,7 +1,7 @@
 ---
 title: Bekarın dramı - Pt.2
 date: '2023-01-29'
-author: 'Qədirli Sübhan'
+author: 'Filankəs'
 ---
 
 ## Bekarın günü necə bitdi?

@@ -15,8 +15,8 @@
 	</p>
 	<ul>
 		<h2>Müəlliflər</h2>
-		<li>Qədirli Sübhan</li>
-		<li>Məmmədov Aqil</li>
+		<li>Filankəs</li>
+		<li>Bəhmənkəs</li>
 	</ul>
 
 	<ul>

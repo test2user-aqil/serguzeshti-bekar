@@ -1,7 +1,7 @@
 ---
 title: Bekarın dramı - Pt.1
 date: '2023-01-27'
-author: 'Qədirli Sübhan'
+author: 'Filankəs'
 ---
 
 ## Bir əfsanənin başlanğıcı
