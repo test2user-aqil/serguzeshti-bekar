@@ -15,8 +15,9 @@
 	<h1>Sərgüzəşti-bekar</h1>
 
 	<h3>
-		Bəndlərin heç biri təbii və ya süni bir təfəkkürün məhsulu deyil. Real hadisələr əsasında
-		yazılmışdır.
+		Mənanın yad anlayış olduğu və bəndlərin məqsədsiz cərəyan etdiyi bekarların dünyasına addım
+		atın. Özünüzü absurd mənzərəsinə qərq edin, məna və təfsir təbiəti haqqında yeni perspektiv kəşf
+		edin.
 	</h3>
 
 	<h2>Ən son:</h2>
