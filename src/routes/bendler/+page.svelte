@@ -34,18 +34,37 @@
 <h1>Bəndlər</h1>
 
 <ul>
-	<input type="search" placeholder="Axtar..." bind:value={$searchStore.search} />
+	<div class="hero">
+		<input type="search" placeholder="Axtar..." bind:value={$searchStore.search} />
+		<div class="helper">
+			<p>Başlıq</p>
+			<p>Müəllif</p>
+		</div>
+		<hr />
+	</div>
 
-	{#each $searchStore.filtered as bend}
-		<Bend path={bend.path} title={bend.meta.title} author={bend.meta.author} />
-	{/each}
+	<div class="ul">
+		{#each $searchStore.filtered as bend}
+			<Bend path={bend.path} title={bend.meta.title} author={bend.meta.author} />
+		{/each}
+	</div>
 </ul>
 
 <style>
 	ul {
 		display: flex;
 		flex-direction: column;
+		gap: 12px;
+	}
+	.ul {
+		display: flex;
+		flex-direction: column;
 		gap: 1rem;
+	}
+	.hero {
+		display: flex;
+		flex-direction: column;
+		gap: 3px;
 	}
 	input {
 		min-width: max-content;
@@ -61,5 +80,28 @@
 	}
 	input:focus {
 		border: 2px solid rgba(0, 0, 0, 0.5);
+	}
+
+	.helper {
+		display: flex;
+		justify-content: space-between;
+		padding: 0 2rem;
+		user-select: none;
+	}
+	.helper p {
+		font-size: 13px;
+		color: #818181;
+	}
+	hr {
+		background-color: #818181;
+		border: none;
+		height: 1px;
+	}
+
+	@media only screen and (max-width: 460px) {
+		.helper,
+		.hero hr {
+			display: none;
+		}
 	}
 </style>
