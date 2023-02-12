@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
 	--bg: #dddddd;
@@ -25,18 +26,29 @@ h1 {
 	margin: 48px auto;
 }
 
+article * {
+	font-family: 'Noto Serif', serif;
+}
+
+article h1 {
+	font-family: 'Merriweather', serif;
+}
+
 article h2 {
 	padding: 1rem 0.5rem;
 }
 
 article p {
 	padding: 0.5rem;
+	font-size: 17px;
 }
 
 small {
 	color: var(--dark-1);
 	font-style: italic;
 	min-width: fit-content;
+	font-family: 'Noto Serif', serif;
+	font-size: 14px;
 }
 
 ul {
