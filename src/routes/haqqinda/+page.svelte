@@ -5,6 +5,13 @@
 <h1>Haqqında</h1>
 
 <div class="content">
+	<p>
+		Qəribə və gözlənilməz mənasız hekayələri araşdırın, burada hadisələr qafiyəsiz və ya səbəbsiz
+		cərəyan edir və personajlar aydın bir məqsəd olmadan həyat sürürlər. Bu bəndlər toplusu adi
+		rəvayətlərə qarşı çıxır, məna və təfsir təbiəti haqqında unikal və düşündürücü perspektiv təklif
+		edir. İstər ənənəvi nağıl danışmaqdan fasilə axtarırsınız, istərsə də öz qavrayışlarınıza meydan
+		oxumaq istəsəniz, bu layihə sizi absurd gözəlliyə dəf etməyə dəvət edir.
+	</p>
 	<ul>
 		<h2>Müəlliflər</h2>
 		<li>Qədirli Sübhan</li>
@@ -27,6 +34,10 @@
 		flex-wrap: wrap;
 		justify-content: space-evenly;
 	}
+	.content > p {
+		max-width: 500px;
+	}
+
 	ul {
 		width: fit-content;
 		display: flex;
