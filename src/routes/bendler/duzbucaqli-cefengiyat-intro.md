@@ -1,6 +1,6 @@
 ---
 title: Düzbucaqlı Cəfəngiyat - Intro
-date: '2023-02-11'
+date: '2023-02-11 18:04'
 author: 'Məmmədov Aqil'
 ---
 

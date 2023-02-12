@@ -1,6 +1,6 @@
 ---
 title: Düzbucaqlı Cəfəngiyat - Pt.1 (İmtina)
-date: '2023-02-12'
+date: '2023-02-11 19:27'
 author: 'Məmmədov Aqil'
 ---
 
