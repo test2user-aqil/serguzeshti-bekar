@@ -6,7 +6,8 @@
 
 <svelte:head>
 	<title>{data.title} &bull; Sərgüzəşti-bekar</title>
-	<meta property="og:title" content={data.title} />
+	<meta property="og:title" content={`${data.title} • Sərgüzəşti-bekar`} />
+	<meta name="description" content={`${data.title} by ${data.author}`} />
 </svelte:head>
 
 <article>

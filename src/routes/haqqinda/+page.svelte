@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Haqqında &bull; Sərgüzəşti-bekar</title>
+	<meta name="description" content="Haqqında, təsvir, müəlliflər, linklər" />
 </svelte:head>
 
 <h1>Haqqında</h1>

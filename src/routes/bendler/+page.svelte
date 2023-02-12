@@ -29,6 +29,7 @@
 
 <svelte:head>
 	<title>Bəndlər &bull; Sərgüzəşti-bekar</title>
+	<meta name="description" content="Bütün bəndlər" />
 </svelte:head>
 
 <h1>Bəndlər</h1>

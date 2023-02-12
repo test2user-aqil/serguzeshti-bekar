@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Sərgüzəşti-bekar &bull; Ana Səhifə</title>
+	<title>Ana Səhifə &bull; Sərgüzəşti-bekar</title>
 	<meta name="description" content="Bekarların məcəraları" />
 </svelte:head>
 
