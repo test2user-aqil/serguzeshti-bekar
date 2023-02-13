@@ -1,5 +1,5 @@
 ---
-title: Bekar Bekar fikirlər (BBF - İntro)
+title: Bekar Bekar fikirlər - Intro
 date: '2023-02-11 19:45'
 author: 'Filankəs'
 ---

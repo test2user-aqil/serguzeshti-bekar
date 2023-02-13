@@ -1,5 +1,5 @@
 ---
-title: Düzbucaqlı Cəfəngiyat - Pt.1 (İmtina)
+title: Düzbucaqlı Cəfəngiyat - Pt.1
 date: '2023-02-11 19:27'
 author: 'Bəhmənkəs'
 ---
