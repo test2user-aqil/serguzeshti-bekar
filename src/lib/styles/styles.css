@@ -41,6 +41,11 @@ article h2 {
 article p {
 	padding: 0.5rem;
 	font-size: 17px;
+	max-width: max-content;
+}
+
+article img {
+	max-width: 100%;
 }
 
 small {
