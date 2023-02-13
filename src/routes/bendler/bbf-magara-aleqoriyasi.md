@@ -1,7 +1,7 @@
 ---
 title: BBF - Mağara aleqoriyası
 date: '2023-02-11 21:45'
-author: 'Bəhmənkəs'
+author: 'Filankəs'
 ---
 
 Bu günkü bekar fikrimiz Platon'un Mağara aleqoriyasıdır (sadə dillə desək bənzətmə). Platon "ideal" cəmiyyəti təsvir etdiyi "Dövlət" seriyasının yeddinci kitabında bunun haqqında danışılır. Hekayə belədir:
