@@ -1,6 +1,6 @@
 ---
 title: Düzbucaqlı Cəfəngiyat - Pt.2
-date: '2023-02-11 20:27'
+date: '2023-02-12 20:27'
 author: 'Bəhmənkəs'
 ---
 

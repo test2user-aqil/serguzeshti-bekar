@@ -1,6 +1,6 @@
 ---
 title: Düzbucaqlı Cəfəngiyat - Intro
-date: '2023-02-11 18:04'
+date: '2023-02-12 18:04'
 author: 'Bəhmənkəs'
 ---
 

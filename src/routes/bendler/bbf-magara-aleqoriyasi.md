@@ -1,6 +1,6 @@
 ---
 title: BBF - Mağara aleqoriyası
-date: '2023-02-11 21:45'
+date: '2023-02-12 21:45'
 author: 'Filankəs'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Bekar Bekar fikirlər - Intro
-date: '2023-02-11 19:45'
+date: '2023-02-12 19:45'
 author: 'Filankəs'
 ---
 
