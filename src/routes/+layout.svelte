@@ -12,7 +12,7 @@
 
 <style>
 	main {
-		padding: 6px;
+		padding: 0.3rem 0.3rem 2rem;
 	}
 	@media (min-width: 700px) {
 		main {
