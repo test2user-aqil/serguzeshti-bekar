@@ -1,6 +1,24 @@
 <script lang="ts">
 	import Navbar from '$lib/components/Navbar.svelte';
+	import NProgress from 'nprogress';
 	import '$lib/styles/styles.css';
+	import { navigating } from '$app/stores';
+
+	import 'nprogress/nprogress.css';
+
+	NProgress.configure({
+		// Full list: https://github.com/rstacruz/nprogress#configuration
+		minimum: 0.16
+	});
+
+	$: {
+		if ($navigating) {
+			NProgress.start();
+		}
+		if (!$navigating) {
+			NProgress.done();
+		}
+	}
 </script>
 
 <div class="app">
