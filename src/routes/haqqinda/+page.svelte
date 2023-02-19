@@ -17,6 +17,7 @@
 		<h2>Müəlliflər</h2>
 		<li>Filankəs</li>
 		<li>Bəhmənkəs</li>
+		<li>Hərifin biri</li>
 	</ul>
 
 	<ul>
