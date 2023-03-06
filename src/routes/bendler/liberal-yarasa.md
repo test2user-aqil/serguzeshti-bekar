@@ -28,7 +28,7 @@ Bunu eşidən heyvanlar da pərt halda saraya qayıdırlar. Artıq heç kəs ond
 
 Bir müddət keçdi. Meşəyə qorxu yayılmağa başladı. İllər sonra Vergiman meşəyə qayıdırdı. Yarasa ilə başa çıxsa-çıxsa o çıxacaqdı. Vergiman meşəyə gələr-gəlməz hər yerə vəlvələ saldı. Artıq hamı ondan Yarasa məsləsini həll etməyini gözləyirdi. O belə də edəcəkdi..
 
-![](http://www.ronpaulinstitute.org/media/122751/erdogan-sunglasses.jpg)
+![](https://i.imgur.com/jYPPQdh.jpg)
 
 Vergiman səhər 5 də Yarasanın mağarasına basqın keçirdər. Onu bu səfər qafil tutmuşdu. Bu səfər o millətindən, dinindən, irqindən asılı olmayaraq şərtsiz olaraq vergi istədi bu vətən xainindən.
 
